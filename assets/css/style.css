@@ -1,0 +1,42 @@
+/* CSS Styles */
+
+.site-container {
+	max-width: 600px;
+}
+
+.footer-text {
+	margin-top: 2em;
+	font-size: .8em;
+	color: grey;
+}
+
+.message {
+	margin: 1em 0;
+}
+
+.message-error,
+.text-error {
+	color: #d76666;;
+}
+
+.message-warning,
+.text-warning {
+	color: #ecb057;
+}
+
+.message-success,
+.text-success {
+	color: #45b47d;
+}
+
+.text-muted {
+	color: grey;
+}
+
+.text-large {
+	font-size: 1.2em;
+}
+
+.text-small {
+	font-size: .8em;
+}
